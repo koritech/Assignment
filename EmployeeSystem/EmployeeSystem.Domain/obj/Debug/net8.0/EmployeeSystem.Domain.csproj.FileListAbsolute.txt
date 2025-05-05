@@ -1,0 +1,11 @@
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\bin\Debug\net8.0\EmployeeSystem.Domain.deps.json
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\bin\Debug\net8.0\EmployeeSystem.Domain.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\bin\Debug\net8.0\EmployeeSystem.Domain.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.AssemblyInfoInputs.cache
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.AssemblyInfo.cs
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.csproj.CoreCompileInputs.cache
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\refint\EmployeeSystem.Domain.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\EmployeeSystem.Domain.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Domain\obj\Debug\net8.0\ref\EmployeeSystem.Domain.dll

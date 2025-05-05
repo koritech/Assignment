@@ -1,0 +1,17 @@
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Services.deps.json
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Services.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Services.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Data.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Domain.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Data.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\bin\Debug\net8.0\EmployeeSystem.Domain.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.csproj.AssemblyReference.cache
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.AssemblyInfoInputs.cache
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.AssemblyInfo.cs
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.csproj.CoreCompileInputs.cache
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\Employee.D6E125E0.Up2Date
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\refint\EmployeeSystem.Services.dll
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\EmployeeSystem.Services.pdb
+C:\GitHub\Assignment\EmployeeSystem\EmployeeSystem.Services\obj\Debug\net8.0\ref\EmployeeSystem.Services.dll

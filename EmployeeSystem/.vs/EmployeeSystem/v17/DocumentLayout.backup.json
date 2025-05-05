@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Assignment\\EmployeeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.services.tests\\services\\employeesystemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.services.tests\\services\\employeesystemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.api.tests\\startupintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.api.tests\\startupintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.api.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.api.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\models\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\models\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\services\\dbemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\services\\dbemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.domain\\entities\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|solutionrelative:employeesystem.domain\\entities\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\interfaces\\irequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\interfaces\\irequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\validator\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\validator\\requestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.domain\\entities\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|solutionrelative:employeesystem.domain\\entities\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\services\\kafkaemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\services\\kafkaemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\mappers\\employeemapper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\mappers\\employeemapper .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\interfaces\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\interfaces\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\swagger\\addrequiredheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\swagger\\addrequiredheaderparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\middleware\\processingmodevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\middleware\\processingmodevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\factory\\employeeservicefactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\factory\\employeeservicefactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\factory\\iemployeeservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\factory\\iemployeeservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.domain\\employeesystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|solutionrelative:employeesystem.domain\\employeesystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.data.tests\\repository\\employeerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.data.tests\\repository\\employeerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|solutionrelative:employeesystem.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|solutionrelative:employeesystem.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.data\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|solutionrelative:employeesystem.data\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.data\\data\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|solutionrelative:employeesystem.data\\data\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.data\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C50291-E224-4B5C-BD62-7C95648B4EC1}|EmployeeSystem.Data\\EmployeeSystem.Data.csproj|solutionrelative:employeesystem.data\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.services.tests\\dtos\\employeedtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.services.tests\\dtos\\employeedtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.data.tests\\dbcontextfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.data.tests\\dbcontextfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.tests\\employeesystem.data.tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C7177-D08D-4718-8645-1B761DEC2AA8}|EmployeeSystem.Tests\\EmployeeSystem.Tests.csproj|solutionrelative:employeesystem.tests\\employeesystem.data.tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\employeesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\employeesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|c:\\github\\assignment\\employeesystem\\employeesystem\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5683715F-0D34-4953-9DF5-26E406ADCC8A}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.services\\employeesystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{881A62A3-5FFE-4B98-A113-91B988E38EC5}|EmployeeSystem.Services\\EmployeeSystem.Services.csproj|solutionrelative:employeesystem.services\\employeesystem.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|c:\\github\\assignment\\employeesystem\\employeesystem.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627F37AB-0F51-4D6C-8BA7-F90099489077}|EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj|solutionrelative:employeesystem.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:34:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Domain\\Entities\\KafkaSettings.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\KafkaSettings.cs",
+              "RelativeToolTip": "EmployeeSystem.Domain\\Entities\\KafkaSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:42:07.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeSystemServiceTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\Services\\EmployeeSystemServiceTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\Services\\EmployeeSystemServiceTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\Services\\EmployeeSystemServiceTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\Services\\EmployeeSystemServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:49:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:16:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbEmployeeService.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\DbEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Services\\DbEmployeeService.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\DbEmployeeService.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Services\\DbEmployeeService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:14:31.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartupIntegrationTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\StartupIntegrationTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\StartupIntegrationTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\StartupIntegrationTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.API.Tests\\StartupIntegrationTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:23:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Models\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Models\\ValidationResult.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Models\\ValidationResult.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Models\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:15:16.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeSystem\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:35:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRequestValidator.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IRequestValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Interfaces\\IRequestValidator.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IRequestValidator.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Interfaces\\IRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:58:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestValidator.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Validator\\RequestValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Validator\\RequestValidator.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Validator\\RequestValidator.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Validator\\RequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:01:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Domain\\Entities\\ValidationResult.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\ValidationResult.cs",
+              "RelativeToolTip": "EmployeeSystem.Domain\\Entities\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T01:12:53.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeSystem\\appsettings.json",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T21:38:37.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KafkaEmployeeService.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\KafkaEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Services\\KafkaEmployeeService.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\KafkaEmployeeService.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Services\\KafkaEmployeeService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:49:19.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeSystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T21:38:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddRequiredHeaderParameter.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Swagger\\AddRequiredHeaderParameter.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Swagger\\AddRequiredHeaderParameter.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Swagger\\AddRequiredHeaderParameter.cs",
+              "RelativeToolTip": "EmployeeSystem\\Swagger\\AddRequiredHeaderParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:56:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "EmployeeSystem\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:19:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeMapper.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IEmployeeMapper.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Interfaces\\IEmployeeMapper.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IEmployeeMapper.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Interfaces\\IEmployeeMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:17:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeMapper .cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Mappers\\EmployeeMapper .cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Mappers\\EmployeeMapper .cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Mappers\\EmployeeMapper .cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Mappers\\EmployeeMapper .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:19:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:12:51.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProcessingModeValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Middleware\\ProcessingModeValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Middleware\\ProcessingModeValidationMiddleware.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Middleware\\ProcessingModeValidationMiddleware.cs",
+              "RelativeToolTip": "EmployeeSystem\\Middleware\\ProcessingModeValidationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:14:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IKafkaProducer.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IKafkaProducer.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Interfaces\\IKafkaProducer.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IKafkaProducer.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Interfaces\\IKafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:28:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Services\\KafkaProducer.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Services\\KafkaProducer.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Services\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:30:13.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeServiceFactory .cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Factory\\EmployeeServiceFactory .cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Factory\\EmployeeServiceFactory .cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Factory\\EmployeeServiceFactory .cs",
+              "RelativeToolTip": "EmployeeSystem\\Factory\\EmployeeServiceFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:45:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmployeeServiceFactory.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Factory\\IEmployeeServiceFactory.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Factory\\IEmployeeServiceFactory.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\Factory\\IEmployeeServiceFactory.cs",
+              "RelativeToolTip": "EmployeeSystem\\Factory\\IEmployeeServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:44:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\log4net.config",
+              "RelativeDocumentMoniker": "EmployeeSystem\\log4net.config",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\log4net.config",
+              "RelativeToolTip": "EmployeeSystem\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-04T04:52:04.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeRepositoryTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\Repository\\EmployeeRepositoryTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\Repository\\EmployeeRepositoryTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\Repository\\EmployeeRepositoryTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\Repository\\EmployeeRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:08:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeSystem.Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:55:12.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Data\\Data\\DbContextFactory.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\DbContextFactory.cs",
+              "RelativeToolTip": "EmployeeSystem.Data\\Data\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:17:30.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeSystem.Domain.csproj",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj",
+              "RelativeToolTip": "EmployeeSystem.Domain\\EmployeeSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T21:19:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Data\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeSystem.Data\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:16:54.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeDtoTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\DTOs\\EmployeeDtoTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\DTOs\\EmployeeDtoTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\DTOs\\EmployeeDtoTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.Services.Tests\\DTOs\\EmployeeDtoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:41:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Data\\Data\\IAppDbContext.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Data\\IAppDbContext.cs",
+              "RelativeToolTip": "EmployeeSystem.Data\\Data\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:12:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Data\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Data\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeSystem.Data\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:54:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContextTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\AppDbContextTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\AppDbContextTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\AppDbContextTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\AppDbContextTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:51:58.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DbContextFactoryTests.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\DbContextFactoryTests.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\DbContextFactoryTests.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\DbContextFactoryTests.cs",
+              "RelativeToolTip": "EmployeeSystem.Tests\\EmployeeSystem.Data.Tests\\DbContextFactoryTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwDwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:26:13.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeSystem.Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:13:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\log4net.config",
+              "RelativeDocumentMoniker": "EmployeeSystem\\log4net.config",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\log4net.config",
+              "RelativeToolTip": "EmployeeSystem\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-04T04:49:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmployeeSystem",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\EmployeeSystem.csproj",
+              "RelativeDocumentMoniker": "EmployeeSystem\\EmployeeSystem.csproj",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem\\EmployeeSystem.csproj",
+              "RelativeToolTip": "EmployeeSystem\\EmployeeSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T04:50:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeeSystem.Services.csproj",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\EmployeeSystem.Services.csproj",
+              "RelativeDocumentMoniker": "EmployeeSystem.Services\\EmployeeSystem.Services.csproj",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Services\\EmployeeSystem.Services.csproj",
+              "RelativeToolTip": "EmployeeSystem.Services\\EmployeeSystem.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T21:13:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\GitHub\\Assignment\\EmployeeSystem\\EmployeeSystem.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeSystem.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:19:48.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
